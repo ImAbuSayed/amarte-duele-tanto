@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amarte duele tanto
+
+This log tracks the cryptographic history and versioning for the song **Amarte duele tanto** (amarte-duele-tanto).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:31:51.934772 | `v1` | `2baa3c261bb23274a41e30609824e695e17025c1dfc5289ad3170fb5fd96f697` | `fd0f78845855f235e0cfbcd67525d4737b67952381e89a719a62589f20a1dba7` | `2026-06-18_amarte-duele-tanto-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
