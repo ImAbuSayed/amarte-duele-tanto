@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amarte-duele-tanto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Amarte duele tanto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amarte-duele-tanto/) |
+| **Get License** | [Secure Licensing Rights for Amarte duele tanto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amarte-duele-tanto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> You got that fire in your eyes when the lights go down
+> I feel the rhythm of your body pulling me around
+> We’re moving closer and the tension is about to break
+> This kind of passion is a beautiful mistake
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
